@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.title("Group-001")
 
 st.markdown("""
-***Water Supply Data Visualization App***
+###Water Supply Data Visualization App
 
 This dashboard explores the relationship between water supply, water return, and weather patterns in **Albuquerque and Bernalillo County**.  
 We compare municipal water data with average weather conditions to uncover potential correlations.  
